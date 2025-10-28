@@ -1,0 +1,2 @@
+[console_scripts]
+amc-mcp = amc_mcp.server:main
