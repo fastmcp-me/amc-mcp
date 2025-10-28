@@ -1,0 +1,92 @@
+[
+  {
+    "movie_id": "mv001",
+    "title": "Dune: Part Two",
+    "rating": "PG-13",
+    "duration": 166,
+    "genre": "Sci-Fi/Action",
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "poster_url": "https://example.com/posters/dune2.jpg"
+  },
+  {
+    "movie_id": "mv002",
+    "title": "Oppenheimer",
+    "rating": "R",
+    "duration": 180,
+    "genre": "Biography/Drama",
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "poster_url": "https://example.com/posters/oppenheimer.jpg"
+  },
+  {
+    "movie_id": "mv003",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "rating": "PG",
+    "duration": 140,
+    "genre": "Animation/Action",
+    "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People.",
+    "poster_url": "https://example.com/posters/spiderverse.jpg"
+  },
+  {
+    "movie_id": "mv004",
+    "title": "John Wick: Chapter 4",
+    "rating": "R",
+    "duration": 169,
+    "genre": "Action/Thriller",
+    "description": "John Wick discovers a way to defeat The High Table. But before he can earn his freedom, Wick must face off against a new enemy.",
+    "poster_url": "https://example.com/posters/johnwick4.jpg"
+  },
+  {
+    "movie_id": "mv005",
+    "title": "The Little Mermaid",
+    "rating": "PG",
+    "duration": 135,
+    "genre": "Fantasy/Musical",
+    "description": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs.",
+    "poster_url": "https://example.com/posters/littlemermaid.jpg"
+  },
+  {
+    "movie_id": "mv006",
+    "title": "Fast X",
+    "rating": "PG-13",
+    "duration": 141,
+    "genre": "Action/Adventure",
+    "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+    "poster_url": "https://example.com/posters/fastx.jpg"
+  },
+  {
+    "movie_id": "mv007",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "rating": "PG-13",
+    "duration": 150,
+    "genre": "Action/Comedy",
+    "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe.",
+    "poster_url": "https://example.com/posters/gotg3.jpg"
+  },
+  {
+    "movie_id": "mv008",
+    "title": "Indiana Jones and the Dial of Destiny",
+    "rating": "PG-13",
+    "duration": 154,
+    "genre": "Adventure/Action",
+    "description": "Aging archaeologist Indiana Jones races against time to retrieve a legendary artifact.",
+    "poster_url": "https://example.com/posters/indy5.jpg"
+  },
+  {
+    "movie_id": "mv009",
+    "title": "The Super Mario Bros. Movie",
+    "rating": "PG",
+    "duration": 92,
+    "genre": "Animation/Family",
+    "description": "A plumber named Mario travels through an underground labyrinth with his brother Luigi.",
+    "poster_url": "https://example.com/posters/mario.jpg"
+  },
+  {
+    "movie_id": "mv010",
+    "title": "Scream VI",
+    "rating": "R",
+    "duration": 123,
+    "genre": "Horror/Mystery",
+    "description": "The survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
+    "poster_url": "https://example.com/posters/scream6.jpg"
+  }
+]

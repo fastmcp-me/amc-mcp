@@ -1,0 +1,66 @@
+{
+  "name": "amc-mcp",
+  "description": "An MCP server that helps users plan, select, book, and pay for AMC movie experiences",
+  "version": "0.1.0",
+  "author": "AMC MCP Server Team",
+  "license": "MIT",
+  "homepage": "https://github.com/your-org/amc-mcp",
+  "repository": "https://github.com/your-org/amc-mcp.git",
+  "bugs": "https://github.com/your-org/amc-mcp/issues",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "movies",
+    "amc",
+    "booking",
+    "cinema",
+    "entertainment"
+  ],
+  "categories": [
+    "entertainment",
+    "booking",
+    "api-integration"
+  ],
+  "tools": [
+    {
+      "name": "get_now_showing",
+      "description": "Returns a list of movies currently showing in a given city or ZIP code"
+    },
+    {
+      "name": "get_recommendations", 
+      "description": "Suggests movies based on mood, genre, or time preferences"
+    },
+    {
+      "name": "get_showtimes",
+      "description": "Fetches available showtimes for a specific movie and location"
+    },
+    {
+      "name": "get_seat_map",
+      "description": "Displays available and reserved seats for a specific showtime"
+    },
+    {
+      "name": "book_seats",
+      "description": "Reserves selected seats for the user"
+    },
+    {
+      "name": "process_payment",
+      "description": "Handles simulated payment transaction"
+    }
+  ],
+  "server": {
+    "command": "python",
+    "args": ["-m", "amc_mcp.server"],
+    "env": {
+      "PYTHONPATH": "./src"
+    }
+  },
+  "development": {
+    "install": "pip install -e .",
+    "test": "python test_server.py",
+    "docker": {
+      "build": "docker build -t amc-mcp .",
+      "run": "docker run -it amc-mcp",
+      "compose": "docker-compose up --build"
+    }
+  }
+}

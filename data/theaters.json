@@ -1,0 +1,82 @@
+[
+  {
+    "theater_id": "th001",
+    "name": "AMC Boston Common 19",
+    "address": "175 Tremont Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip_code": "02111"
+  },
+  {
+    "theater_id": "th002",
+    "name": "AMC Assembly Row 12",
+    "address": "395 Artisan Way",
+    "city": "Somerville",
+    "state": "MA",
+    "zip_code": "02145"
+  },
+  {
+    "theater_id": "th003",
+    "name": "AMC Liberty Tree Mall 20",
+    "address": "100 Independence Way",
+    "city": "Danvers",
+    "state": "MA",
+    "zip_code": "01923"
+  },
+  {
+    "theater_id": "th004",
+    "name": "AMC Braintree 10",
+    "address": "250 Granite Street",
+    "city": "Braintree",
+    "state": "MA",
+    "zip_code": "02184"
+  },
+  {
+    "theater_id": "th005",
+    "name": "AMC Burlington 10",
+    "address": "20 South Avenue",
+    "city": "Burlington",
+    "state": "MA",
+    "zip_code": "01803"
+  },
+  {
+    "theater_id": "th006",
+    "name": "AMC Empire 25",
+    "address": "234 W 42nd Street",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10036"
+  },
+  {
+    "theater_id": "th007",
+    "name": "AMC Lincoln Square 13",
+    "address": "1998 Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10023"
+  },
+  {
+    "theater_id": "th008",
+    "name": "AMC Century City 15",
+    "address": "10250 Santa Monica Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90067"
+  },
+  {
+    "theater_id": "th009",
+    "name": "AMC The Grove 14",
+    "address": "189 The Grove Drive",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90036"
+  },
+  {
+    "theater_id": "th010",
+    "name": "AMC River East 21",
+    "address": "322 E Illinois Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60611"
+  }
+]

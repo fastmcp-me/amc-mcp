@@ -1,0 +1,137 @@
+[
+  {
+    "showtime_id": "st001",
+    "movie_id": "mv001",
+    "theater_id": "th001",
+    "date": "2025-10-28",
+    "time": "14:00",
+    "format": "IMAX",
+    "price": 18.50
+  },
+  {
+    "showtime_id": "st002",
+    "movie_id": "mv001",
+    "theater_id": "th001",
+    "date": "2025-10-28",
+    "time": "17:30",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st003",
+    "movie_id": "mv001",
+    "theater_id": "th001",
+    "date": "2025-10-28",
+    "time": "20:45",
+    "format": "Dolby",
+    "price": 17.00
+  },
+  {
+    "showtime_id": "st004",
+    "movie_id": "mv002",
+    "theater_id": "th001",
+    "date": "2025-10-28",
+    "time": "15:00",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st005",
+    "movie_id": "mv002",
+    "theater_id": "th001",
+    "date": "2025-10-28",
+    "time": "19:00",
+    "format": "IMAX",
+    "price": 18.50
+  },
+  {
+    "showtime_id": "st006",
+    "movie_id": "mv003",
+    "theater_id": "th002",
+    "date": "2025-10-28",
+    "time": "13:30",
+    "format": "3D",
+    "price": 16.50
+  },
+  {
+    "showtime_id": "st007",
+    "movie_id": "mv003",
+    "theater_id": "th002",
+    "date": "2025-10-28",
+    "time": "16:00",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st008",
+    "movie_id": "mv004",
+    "theater_id": "th002",
+    "date": "2025-10-28",
+    "time": "18:30",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st009",
+    "movie_id": "mv005",
+    "theater_id": "th003",
+    "date": "2025-10-28",
+    "time": "14:15",
+    "format": "Standard",
+    "price": 12.00
+  },
+  {
+    "showtime_id": "st010",
+    "movie_id": "mv006",
+    "theater_id": "th003",
+    "date": "2025-10-28",
+    "time": "21:00",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st011",
+    "movie_id": "mv001",
+    "theater_id": "th002",
+    "date": "2025-10-29",
+    "time": "19:30",
+    "format": "IMAX",
+    "price": 18.50
+  },
+  {
+    "showtime_id": "st012",
+    "movie_id": "mv007",
+    "theater_id": "th004",
+    "date": "2025-10-28",
+    "time": "16:45",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st013",
+    "movie_id": "mv008",
+    "theater_id": "th004",
+    "date": "2025-10-28",
+    "time": "20:00",
+    "format": "Standard",
+    "price": 15.00
+  },
+  {
+    "showtime_id": "st014",
+    "movie_id": "mv009",
+    "theater_id": "th005",
+    "date": "2025-10-28",
+    "time": "12:00",
+    "format": "Standard",
+    "price": 12.00
+  },
+  {
+    "showtime_id": "st015",
+    "movie_id": "mv010",
+    "theater_id": "th005",
+    "date": "2025-10-28",
+    "time": "22:30",
+    "format": "Standard",
+    "price": 15.00
+  }
+]
