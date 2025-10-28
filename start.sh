@@ -26,6 +26,6 @@ echo "🧪 Running tests..."
 python test_server.py
 
 # Start server
-echo "🚀 Starting MCP Server..."
+echo "🚀 Starting FastMCP Server..."
 echo "Press Ctrl+C to stop the server"
-python -m amc_mcp.server
+python -m amc_mcp.fastmcp_server

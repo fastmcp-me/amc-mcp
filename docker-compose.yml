@@ -6,8 +6,8 @@ services:
     image: amc-mcp:latest
     container_name: amc-mcp-server
     restart: unless-stopped
-    stdin_open: true
-    tty: true
+    ports:
+      - "8000:8000"
     environment:
       - PYTHONPATH=/app/src
       - PYTHONUNBUFFERED=1
@@ -18,7 +18,7 @@ services:
     networks:
       - amc-network
     healthcheck:
-      test: ["CMD", "python", "-c", "import amc_mcp; print('OK')"]
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s
       timeout: 10s
       retries: 3

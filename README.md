@@ -40,7 +40,7 @@ pip install -e .
 
 4. Run the server:
 ```bash
-python -m amc_mcp.server
+python -m amc_mcp.fastmcp_server
 ```
 
 #### Option 2: Docker Deployment

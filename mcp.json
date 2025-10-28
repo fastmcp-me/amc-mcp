@@ -49,7 +49,7 @@
   ],
   "server": {
     "command": "python",
-    "args": ["-m", "amc_mcp.server"],
+    "args": ["-m", "amc_mcp.fastmcp_server"],
     "env": {
       "PYTHONPATH": "./src"
     }

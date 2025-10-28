@@ -30,8 +30,9 @@ RUN pip install -e .
 RUN useradd --create-home --shell /bin/bash amc
 USER amc
 
-# Expose port (for debugging/monitoring purposes)
+# Expose port for HTTP server
 EXPOSE 8000
 
 # Set the default command
-CMD ["python", "-m", "amc_mcp.server"]
+# FastMCP supports both stdio and HTTP transports
+CMD ["python", "-m", "amc_mcp.fastmcp_server"]

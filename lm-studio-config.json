@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "amc-mcp": {
+      "command": "python3",
+      "args": [
+        "-m",
+        "amc_mcp.fastmcp_server"
+      ],
+      "cwd": "/Users/nanda/src/amc-mcp",
+      "env": {
+        "PYTHONPATH": "/Users/nanda/src/amc-mcp/src"
+      }
+    }
+  }
+}

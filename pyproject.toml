@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "amc-mcp"
 version = "0.1.0"
 description = "An MCP server that helps users plan, select, book, and pay for AMC movie experiences"
-authors = [{name = "AMC MCP Server", email = "contact@example.com"}]
+authors = [{name = "Kishore Chitrapu"}]
 license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.10"
@@ -20,15 +20,13 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
 ]
 dependencies = [
-    "mcp>=1.0.0",
-    "fastapi>=0.104.0",
-    "uvicorn>=0.24.0",
+    "fastmcp>=0.2.0",
     "pydantic>=2.0.0",
-    "python-multipart>=0.0.6",
+    "uvicorn>=0.24.0",
 ]
 
 [project.scripts]
-amc-mcp = "amc_mcp.server:main"
+amc-mcp = "amc_mcp.fastmcp_server:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
