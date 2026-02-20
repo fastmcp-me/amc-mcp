@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1865/amc-mcp-server)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1865/amc-mcp-server)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1865/amc-mcp-server)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1865/amc-mcp-server)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1865/amc-mcp-server)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1865/amc-mcp-server)
+
 # AMC MCP Server 🎬
 
 An Model Context Protocol (MCP) server that provides a comprehensive movie booking experience for AMC Theatres. This server enables conversational AI assistants to help users discover movies, find showtimes, book seats, and process payments through a simple API interface.
